@@ -1,0 +1,48 @@
+.title{
+    color:#3d3d3d;
+    background-color: #E1EDF2;
+    padding: 10px;
+}
+.subtitle{
+    border: 5px;
+    border-bottom: #3d3d3d;
+}
+.image{
+    display:grid;
+    grid-row: 2;
+    justify-content: center;
+    align-items: center;
+    background-color: whitesmoke;
+    padding: 15px;
+    margin: 30px;
+
+}
+.legenda{
+    color: lightgray;
+    margin-top: 10px;
+}
+
+main{
+    width: 940px;
+    margin-left: 15% ;
+    margin-right: 25%;
+}
+
+.img1{
+    width: 550px;
+}
+
+.img2{
+    width: 275px;
+    justify-items: right;
+}
+
+.topics{
+    color: black;
+    font: inherit;
+    align-items: initial;
+    font-weight: 100;
+}
+div{
+    margin-top:5px;
+}
